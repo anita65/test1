@@ -14,6 +14,7 @@ public class MyWebApp extends AbstractAnnotationConfigDispatcherServletInitializ
 
     @Override
     protected Class<?>[] getServletConfigClasses() {
+        //kishori
         return new Class<?>[] { AppConfig.class };
     }
 
