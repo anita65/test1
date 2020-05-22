@@ -41,6 +41,7 @@ public class AppConfig {
 		factory.setJpaVendorAdapter(vendorAdapter);
 		factory.setPackagesToScan("com.kishori.model");
 		factory.setDataSource(ds());
+		//seconf chnage from IDE
 		return factory;
 	}
 
