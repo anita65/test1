@@ -21,6 +21,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 @Import(RepositoryRestMvcConfiguration.class)   // to become app as spring data rest . after apply this it will not consider restcontroller end point so be carefull
 public class AppConfig {
 
+	//Bean11
 	@Bean
 	public DataSource ds() {
 		DriverManagerDataSource ds = new DriverManagerDataSource();
