@@ -1,7 +1,7 @@
 package com.kishori;
 //kkk bbb
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
-//22
+//22 new
 public class MyWebApp extends AbstractAnnotationConfigDispatcherServletInitializer {
 
     @Override
