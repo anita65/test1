@@ -1,5 +1,5 @@
 package com.kishori;
-//qqq
+//ppp
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 
