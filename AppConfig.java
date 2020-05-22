@@ -33,6 +33,7 @@ public class AppConfig {
 				return ds;
 	}
 
+	//case1
 	@Bean
 	public LocalContainerEntityManagerFactoryBean entityManagerFactory() {
 		HibernateJpaVendorAdapter vendorAdapter = new HibernateJpaVendorAdapter();
