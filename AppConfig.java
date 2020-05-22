@@ -49,11 +49,8 @@ public class AppConfig {
 	public PlatformTransactionManager transactionManager(EntityManagerFactory entityManagerFactory) {
 		JpaTransactionManager txManager = new JpaTransactionManager();
 		txManager.setEntityManagerFactory(entityManagerFactory);
-<<<<<<< HEAD
-		//conff11
-=======
 		//conf222
->>>>>>> stash
+
 		return txManager;
 	}
 
