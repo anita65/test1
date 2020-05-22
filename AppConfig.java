@@ -1,5 +1,5 @@
 package com.kishori;
-
+//qqq
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 
@@ -14,7 +14,7 @@ import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;
 import org.springframework.transaction.PlatformTransactionManager;
-
+//11
 @Configuration
 @ComponentScan(basePackages = "com.kishori")
 @EnableJpaRepositories(basePackages = "com.kishori.repository")
