@@ -6,7 +6,9 @@ public class MyWebApp extends AbstractAnnotationConfigDispatcherServletInitializ
 
     @Override
     protected Class<?>[] getRootConfigClasses() {
-        //confict11
+
+    	//config22
+
         return null;
     }
 
