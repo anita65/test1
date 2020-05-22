@@ -1,5 +1,5 @@
 package com.kishori;
-//kkk
+//kkk bbb
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 //22
 public class MyWebApp extends AbstractAnnotationConfigDispatcherServletInitializer {
