@@ -49,6 +49,7 @@ public class AppConfig {
 	public PlatformTransactionManager transactionManager(EntityManagerFactory entityManagerFactory) {
 		JpaTransactionManager txManager = new JpaTransactionManager();
 		txManager.setEntityManagerFactory(entityManagerFactory);
+		//conff11
 		return txManager;
 	}
 
