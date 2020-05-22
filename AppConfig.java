@@ -28,6 +28,7 @@ public class AppConfig {
 		ds.setUrl("jdbc:mysql://localhost:3306/test");
 		ds.setUsername("root");
 		ds.setPassword("root");
+		// kishori more
 				return ds;
 	}
 
