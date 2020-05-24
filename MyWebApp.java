@@ -6,6 +6,7 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 //22
 //web
 //w1
+//b2
 public class MyWebApp extends AbstractAnnotationConfigDispatcherServletInitializer {
 
     @Override
