@@ -18,6 +18,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 //11
 //22
 //b1
+//k1
 @Configuration
 @ComponentScan(basePackages = "com.kishori")
 @EnableJpaRepositories(basePackages = "com.kishori.repository")
