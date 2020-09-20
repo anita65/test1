@@ -2,7 +2,6 @@ package com.kishori;
 //kish1
 //mohini1
 //mohini2
-//mohini3
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 
