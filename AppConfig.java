@@ -19,6 +19,10 @@ import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;
 import org.springframework.transaction.PlatformTransactionManager;
+
+//a1
+//a2
+=======
 //20
 //11
 //222
@@ -29,6 +33,7 @@ import org.springframework.transaction.PlatformTransactionManager;
 //m1
 //m2
 //m3
+
 @Configuration
 @ComponentScan(basePackages = "com.kishori")
 @EnableJpaRepositories(basePackages = "com.kishori.repository")

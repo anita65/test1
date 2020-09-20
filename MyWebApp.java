@@ -5,8 +5,7 @@ package com.kishori;
 //mohini1
 //mohini2
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
-
-//11
+//w1//11
 //22
 //web
 //w1
@@ -15,6 +14,7 @@ import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatche
 //s2
 //t2
 //m2
+
 //w2
 public class MyWebApp extends AbstractAnnotationConfigDispatcherServletInitializer {
 
