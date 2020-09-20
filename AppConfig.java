@@ -1,5 +1,10 @@
 package com.kishori;
-
+//2020 11 aa
+//8 11 app
+//20 22
+//kish1
+//mohini1
+//mohini2
 import javax.persistence.EntityManagerFactory;
 import javax.sql.DataSource;
 
@@ -14,8 +19,21 @@ import org.springframework.orm.jpa.JpaTransactionManager;
 import org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean;
 import org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter;
 import org.springframework.transaction.PlatformTransactionManager;
+
 //a1
 //a2
+=======
+//20
+//11
+//222
+//b1
+//k1
+//s1
+//t1
+//m1
+//m2
+//m3
+
 @Configuration
 @ComponentScan(basePackages = "com.kishori")
 @EnableJpaRepositories(basePackages = "com.kishori.repository")

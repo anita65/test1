@@ -1,7 +1,20 @@
 package com.kishori;
-
+//2020 11 web
+//8 11 web
+//kish2
+//mohini1
+//mohini2
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+//w1//11
+//22
+//web
 //w1
+//b2
+//k2
+//s2
+//t2
+//m2
+
 //w2
 public class MyWebApp extends AbstractAnnotationConfigDispatcherServletInitializer {
 
